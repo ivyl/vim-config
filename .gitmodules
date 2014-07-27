@@ -79,3 +79,10 @@
 [submodule "bundle/local-vimrc"]
 	path = bundle/local-vimrc
 	url = https://github.com/MarcWeber/vim-addon-local-vimrc.git
+[submodule "bundle/seoul256.vim"]
+	path = bundle/seoul256.vim
+	url = https://github.com/aliev/seoul256.vim.git
+[submodule "bundle/switch"]
+	path = bundle/switch
+	url = https://github.com/AndrewRadev/switch.vim.git
+
