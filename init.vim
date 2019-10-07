@@ -19,6 +19,7 @@ set shortmess+=I
 set showcmd
 set visualbell
 set showfulltag
+set tags^=./.git/tags;
 set splitbelow splitright
 
 set lazyredraw
